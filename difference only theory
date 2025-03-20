@@ -1,0 +1,10 @@
+"""
+1) Syntax - Lists use [], tuples use ()
+
+2) Mutability - Elements in a given list are mutable, 
+elements in a given tuple are NOT mutable.
+
+3) Hashtables (Dictionaries) - As hashtables (dictionaries) 
+require that its keys are hashable and therefore immutable,
+only tuples can act as dictionary keys, not lists.
+"""

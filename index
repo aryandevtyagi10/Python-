@@ -1,0 +1,6 @@
+t=(10,20,10,20,10,10)
+print(t.index(10))
+print(t.index(20))
+#print(t.index(40))
+
+#tuple has no find

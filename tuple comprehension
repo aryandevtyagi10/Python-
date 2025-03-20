@@ -1,0 +1,10 @@
+t=(x**2 for x in range(1,10))
+print(t)
+print(type(t))
+
+t=tuple(x**2 for x in range(1,10))
+print(t)
+print(type(t))
+
+gen = tuple(i * 5 for i in range(5) if i%2==0)
+print(gen)
