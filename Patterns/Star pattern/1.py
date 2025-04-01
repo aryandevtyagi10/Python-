@@ -5,3 +5,9 @@ for i in range (n):
     print("*",end ="")
   print()
 
+Output: 
+*
+**
+***
+****
+*****
