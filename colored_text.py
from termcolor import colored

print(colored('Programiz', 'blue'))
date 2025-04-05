@@ -1,0 +1,6 @@
+#Using python module termcolor
+
+
+from termcolor import colored
+
+print(colored('Python', 'yellow'))
