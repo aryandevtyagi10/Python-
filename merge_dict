@@ -1,0 +1,9 @@
+Merge Dictionaries 
+You can merge to different dictionaries using the bitwise OR operator or simple Update() method in Python. Check Python code examples below in the table
+
+dict1 = {“name”: “Alice”, “age”: 25}
+dict2 = {“city”: “New York”, “job”: “Engineer”}
+
+dict1.update(dict2)
+
+print(dict1)
